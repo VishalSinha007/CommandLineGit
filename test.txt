@@ -1,1 +1,2 @@
-First Commit through Command Line
+First Commit through Command Line.
+This is my Second Commit Line.
